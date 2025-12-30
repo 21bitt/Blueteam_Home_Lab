@@ -11,30 +11,30 @@ Understand the Fundamental of Network Architecture
 
 Network Monitoring & Telemetry
 
--Collect logs and network data with Security Onion and Wazuh.
+    -Collect logs and network data with Security Onion and Wazuh.
 
--Monitor VLANs, IoT devices, and traditional endpoints.
+    -Monitor VLANs, IoT devices, and traditional endpoints.
 
 Endpoint Security & Logging
 
--Wazuh agents on Windows, Linux, and IoT devices.
+    -Wazuh agents on Windows, Linux, and IoT devices.
 
--Detect anomalies, brute force attempts, and unauthorized changes.
+    -Detect anomalies, brute force attempts, and unauthorized changes.
 
 Incident Response Simulation
 
--Controlled attacks with dedicated red/purple team nodes.
+    -Controlled attacks with dedicated red/purple team nodes.
 
--Honeypot deployment for real-world alert scenarios.
+    -Honeypot deployment for real-world alert scenarios.
 
 SOC Skills Development
 
--Traffic analysis, alert triage, threat hunting.
+    -Traffic analysis, alert triage, threat hunting.
 
--MITRE ATT&CK mapping and rule tuning.
+    -MITRE ATT&CK mapping and rule tuning.
 
 Remote Access & Management
 
--Tailscale for secure remote connections.
+    -Tailscale for secure remote connections.
 
--MobaXterm for centralized SSH and management.
+    -MobaXterm for centralized SSH and management.
