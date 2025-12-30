@@ -5,9 +5,9 @@ Home SOC lab focused on network architecture/hardening/monitoring, SIEM, and inc
 
 Understand the Fundamental of Network Architecture
 
--VLAN/Subnetting
+    -VLAN/Subnetting
 
--Orders of Devices
+    -Orders of Devices
 
 Network Monitoring & Telemetry
 
