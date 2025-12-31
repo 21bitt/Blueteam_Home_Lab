@@ -30,3 +30,8 @@ UniFi Switch Ultra
 # Purpose:
 - Establish known-good baseline before segmentation and monitoring
 
+# Confirmed:
+- Unifi UI is showing all the connected devices including my first host machine, custom pc.
+- devices are up to date.
+- no connection to unifi cloud. all localized.
+
