@@ -8,7 +8,7 @@
 - Topology: Double NAT (ISP router upstream)
 
 Internet
-   │
+│
 T-Mobile 5G Modem / Router / AP
    │
 UniFi Cloud Gateway Ultra (WAN)
