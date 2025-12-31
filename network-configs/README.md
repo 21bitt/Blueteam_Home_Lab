@@ -9,15 +9,24 @@
 
 # Network Toplogy (Physical)
 Internet
-│
-T-Mobile 5G Modem / Router / AP
-│
-UniFi Cloud Gateway Ultra (WAN)
-│
-UniFi Switch Ultra
-├── AP7 Lite
-└── Custom PC
 
-Purpose:
+│
+
+T-Mobile 5G Modem / Router / AP
+
+│
+
+UniFi Cloud Gateway Ultra (WAN)
+
+│
+
+UniFi Switch Ultra
+  
+  ├── AP7 Lite
+  
+  └── Custom PC
+
+
+# Purpose:
 - Establish known-good baseline before segmentation and monitoring
 
