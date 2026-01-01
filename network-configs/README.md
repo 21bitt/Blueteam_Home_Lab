@@ -35,3 +35,13 @@ UniFi Switch Ultra
 - devices are up to date.
 - no connection to unifi cloud. all localized.
 
+-----------------------------------------------------------
+
+# Day 1 - VLAN
+
+-created first vlan with /28 mask and enabled the option to isolate this network using firewall rules.\
+ -assigned VLAN 10 to AP7 Lite so private home wifi network (2.4ghz and 5ghz) is enabled. Security is WPA2/WPA3
+
+*Error number 1. 
+- Using my phone, connected to new wifi ssid established with VLAN 10 and AP7 Lite.
+- The device received new ip address with accurate subnet mask. DNS is automatic. Yet no wifi traffic. 
